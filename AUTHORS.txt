@@ -1,0 +1,4 @@
+# These individuals contributed to the hbnb project in this repository 
+
+Hazem mohamed <hm9702776@gmail.com>
+Youssef mohamed <youssefmohamed4004306@gmail.com>
