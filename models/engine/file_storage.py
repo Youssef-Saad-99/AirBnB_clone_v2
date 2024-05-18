@@ -22,7 +22,7 @@ class FileStorage:
 
     def all(self, cls=None):
         """Return the dictionary __objects."""
-        if cls is None:
+       if cls is None:
             return self.__objects
         else:
             filtered_dict = {}
