@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 """A module for web application deployment with Fabric."""
 import os
